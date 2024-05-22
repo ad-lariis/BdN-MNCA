@@ -13,9 +13,8 @@ def main():
     apl_txt = '''*la présence d'au moins une incapacité parmi la liste suivante:
     la recherche d'information, la communication, la résolution de problèmes et l'usage de logiciels.'''
     
-    zonage_txt = '''**l’illectronisme désigne le fait de ne pas posséder les compétences numériques
-    de base : envoyer des courriers électroniques, consulter ses comptes en ligne, utiliser des logiciels, etc.)
-    ou de ne pas se servir d’Internet (incapacité ou impossibilité matérielle).'''
+    zonage_txt = '''**sont considérées en situation d'illectronisme les personnes ayant déclaré
+    n'avoir aucune des quatre compétences listées ci-dessus.'''
     
     
     
